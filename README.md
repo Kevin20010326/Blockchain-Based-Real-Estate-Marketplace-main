@@ -56,7 +56,7 @@ Install my-project with npm
 
 ```bash
   npm install my-project
-  git clone git@github.com:Ronnie-Ahmed/Blockchain-Based-Real-Estate-Marketplace.git
+  git clone https://github.com/Kevin20010326/Blockchain-Based-Real-Estate-Marketplace-main.git
   cd Blockchain-Based-Real-Estate-Marketplace
   npm install
   npx hardhat node
