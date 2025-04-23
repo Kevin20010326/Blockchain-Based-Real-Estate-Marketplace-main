@@ -36,7 +36,7 @@ NPM（Node 套件管理器）用作套件管理器，用於管理依賴項並確
 
 
 
-- [@Raisul Islam](https://www.github.com/Ronnie-Ahmed)
+
 
 
 
